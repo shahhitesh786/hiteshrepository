@@ -16,7 +16,7 @@
         popd
 
 
- name: Deploy DotNet project to function app with a Linux environment
+ name: Deploy DotNet project to function app with a Windows environment
 
 on:
   [push]
